@@ -1,7 +1,7 @@
 var enter = function() {
 	if(document.getElementById("text").value == "NZTK") {
-		alert("You solved first part of this quest")
+		alert("Ты выйграл эту головоломку")
 	} else {
-		alert("Wrong answer")
+		alert("Неправильный ответ")
 	}
 }
