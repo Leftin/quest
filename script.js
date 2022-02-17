@@ -1,7 +1,7 @@
 var enter = function() {
 	if(document.getElementById("text").value == "NZTK") {
-		alert("Ты выйграл эту головоломку")
+		alert("You win")
 	} else {
-		alert("Неправильный ответ")
+		alert("Wrong Answer")
 	}
 }
